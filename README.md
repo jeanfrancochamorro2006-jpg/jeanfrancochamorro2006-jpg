@@ -1,18 +1,14 @@
-<!-- ░░░ HERO OSCURO ░░░ -->
-<h1 align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A1A&height=240&section=header&text=Jeanfranco%20Chamorro&desc=%3E_%20Business%20Analyst%20%26%20Full%20Stack%20Developer&fontSize=56&descSize=18&descAlignY=64&animation=fadeIn&fontColor=EEFFBF&descColor=A3B3BC&fontAlignY=40"
-    width="100%"
-    alt="Jeanfranco Chamorro"
-  />
-</h1>
+<!-- ░░░ WAVE OSCURA SUPERIOR ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header" width="100%" alt="" />
 
-<!-- ░░░ TIPOGRAFÍA RETRO (Space Mono) ░░░ -->
+<!-- ░░░ NOMBRE EN ORBITRON (estilo Stark / JARVIS) ░░░ -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=EEFFBF&center=true&vCenter=true&width=820&lines=%3E_+Especialista+en+Transformaci%C3%B3n+Digital;%3E_+Construyo+software+que+optimiza+procesos;%3E_+Innovando+con+tecnolog%C3%ADa+y+datos"
-    alt="Roles"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=EEFFBF&center=true&vCenter=true&width=900&height=80&lines=JEANFRANCO+CHAMORRO" alt="Jeanfranco Chamorro" />
+</p>
+
+<!-- ░░░ ROLES EN ORBITRON ░░░ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=A3B3BC&center=true&vCenter=true&width=900&lines=BUSINESS+ANALYST+%26+FULL+STACK+DEVELOPER;ESPECIALISTA+EN+TRANSFORMACI%C3%93N+DIGITAL;INNOVANDO+CON+TECNOLOG%C3%8DA+Y+DATOS" alt="Roles" />
 </p>
 
 <br>
@@ -50,7 +46,9 @@ const jeanfranco = {
 <br>
 
 <!-- ░░░ STACK ░░░ -->
-<h3 align="center">⟨ STACK TECNOLÓGICO ⟩</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=500&height=45&lines=%E2%9F%A8+STACK+TECNOL%C3%93GICO+%E2%9F%A9" alt="Stack" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" alt="Frontend" />
@@ -63,7 +61,9 @@ const jeanfranco = {
 <br>
 
 <!-- ░░░ ESTADÍSTICAS ░░░ -->
-<h3 align="center">⟨ ESTADÍSTICAS EN GITHUB ⟩</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=560&height=45&lines=%E2%9F%A8+ESTAD%C3%8DSTICAS+EN+GITHUB+%E2%9F%A9" alt="Estadísticas" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="170" />
@@ -81,8 +81,8 @@ const jeanfranco = {
   <img src="https://github-profile-trophy.vercel.app/?username=jeanfrancochamorro2006-jpg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos" />
 </p>
 
-<!-- ░░░ FOOTER OSCURO ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
+<!-- ░░░ WAVE OSCURA INFERIOR ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" width="100%" alt="" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeanfrancochamorro2006-jpg&color=EEFFBF&style=flat&label=Visitas+al+perfil" alt="Visitas" />
