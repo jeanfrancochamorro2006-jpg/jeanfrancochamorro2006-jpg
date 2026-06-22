@@ -5,37 +5,17 @@
 ════════════════════════════════════════════════════════════ -->
 
 <!-- ░░░ WAVE OSCURA SUPERIOR ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=170&section=header" width="100%" alt="" />
 
 <!-- ░░░ NOMBRE EN ORBITRON (estilo Stark / JARVIS) ░░░ -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=EEFFBF&center=true&vCenter=true&width=900&height=80&lines=JEANFRANCO+CHAMORRO"
-    alt="Jeanfranco Chamorro"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=EEFFBF&center=true&vCenter=true&width=900&height=80&lines=JEANFRANCO+CHAMORRO" alt="Jeanfranco Chamorro" />
 </p>
 
 <!-- ░░░ ROLES EN ORBITRON ░░░ -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=A3B3BC&center=true&vCenter=true&width=900&lines=BUSINESS+ANALYST+%26+FULL+STACK+DEVELOPER;ESPECIALISTA+EN+TRANSFORMACI%C3%93N+DIGITAL;INNOVANDO+CON+TECNOLOG%C3%8DA+Y+DATOS"
-    alt="Roles"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=A3B3BC&center=true&vCenter=true&width=900&lines=BUSINESS+ANALYST+%26+FULL+STACK+DEVELOPER;ESPECIALISTA+EN+TRANSFORMACI%C3%93N+DIGITAL;INNOVANDO+CON+TECNOLOG%C3%8DA+Y+DATOS" alt="Roles" />
 </p>
-
-<br>
-
-<!-- ░░░ INTRO ESTILO TERMINAL (monoespaciada nativa) ░░░ -->
-```ts
-const jeanfranco = {
-  rol:        ["Business Analyst", "Full Stack Developer"],
-  enfoque:    "Transformación Digital",
-  ubicacion:  "Lima, Perú 🇵🇪",
-  stack:      ["Next.js", "React", "Node.js", "Laravel", "PostgreSQL"],
-  mentalidad: "Convierto procesos de negocio en software escalable.",
-  filosofia:  "La tecnología no reemplaza la estrategia: la potencia.",
-};
-```
 
 <!-- ░░░ CONTACTO ░░░ -->
 <p align="center">
@@ -58,7 +38,27 @@ const jeanfranco = {
 
 <br>
 
-<!-- ░░░ STACK (título en Orbitron) ░░░ -->
+<!-- ░░░ SOBRE MÍ ░░░ -->
+### &gt;_ Sobre mí
+
+```ts
+const jeanfranco = {
+  rol:        ["Business Analyst", "Full Stack Developer"],
+  enfoque:    "Transformación Digital",
+  ubicacion:  "Lima, Perú 🇵🇪",
+  stack:      ["Next.js", "React", "Node.js", "Laravel", "PostgreSQL"],
+  filosofia:  "La tecnología no reemplaza la estrategia: la potencia.",
+};
+```
+
+- 🔭 Desarrollo **aplicaciones web y sistemas empresariales** (ERP, CRM, e-commerce) de extremo a extremo.
+- 📊 Uno **análisis de negocio + datos** para convertir procesos en software escalable.
+- 🤖 Exploro **IA y automatización** para optimizar la eficiencia de las organizaciones.
+- 🌱 Siempre aprendiendo nuevas tecnologías y buscando nuevos retos.
+
+<br>
+
+<!-- ░░░ STACK ░░░ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=500&height=45&lines=%E2%9F%A8+STACK+TECNOL%C3%93GICO+%E2%9F%A9" alt="Stack" />
 </p>
@@ -73,18 +73,31 @@ const jeanfranco = {
 
 <br>
 
-<!-- ░░░ ESTADÍSTICAS (título en Orbitron) ░░░ -->
+<!-- ░░░ ESTADÍSTICAS ░░░ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=560&height=45&lines=%E2%9F%A8+ESTAD%C3%8DSTICAS+EN+GITHUB+%E2%9F%A9" alt="Estadísticas" />
 </p>
 
+<!-- Tarjetas con fondo oscuro sólido (estilo profesional) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanfrancochamorro2006-jpg&theme=github_dark" width="80%" alt="Resumen del perfil" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanfrancochamorro2006-jpg&hide_border=true&background=0D1117&ring=EEFFBF&fire=EEFFBF&currStreakLabel=EEFFBF&sideNums=A3B3BC&sideLabels=A3B3BC&dates=6B7280&stroke=A3B3BC&currStreakNum=EEFFBF&dayNums=A3B3BC" alt="Racha de GitHub" width="60%" />
+</p>
+
+<br>
+
+<!-- ░░░ ACTIVIDAD POR LENGUAJE / TIEMPO (tarjetas oscuras) ░░░ -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanfrancochamorro2006-jpg&theme=github_dark" height="200" alt="Repos por lenguaje" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeanfrancochamorro2006-jpg&theme=github_dark" height="200" alt="Lenguaje más usado en commits" />
 </p>
 
 <br>
