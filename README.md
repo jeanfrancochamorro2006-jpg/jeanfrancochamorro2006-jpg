@@ -80,59 +80,18 @@ const jeanfranco = {
   </picture>
 </p>
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend" />
-  </picture>
-</p>
+<div align="center">
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark" alt="Backend" />
-  </picture>
-</p>
+| Categoría | Tecnologías |
+|:--:|:--|
+| **🎨 Frontend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark&perline=10" height="38" alt="Frontend" /></picture> |
+| **⚙️ Backend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark&perline=10" height="38" alt="Backend" /></picture> |
+| **🗄️ Bases de Datos** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark&perline=10" height="38" alt="Bases de Datos" /></picture> |
+| **☁️ Deploys & Cloud** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark&perline=10" height="38" alt="Deploys y Cloud" /></picture> |
+| **🛠️ Herramientas** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark&perline=10" height="38" alt="Herramientas" /></picture> |
+| **💻 Sistemas Operativos** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark&perline=10" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=light&perline=10" /><img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark&perline=10" height="38" alt="Sistemas Operativos" /></picture> |
 
-<p align="center"><b>Bases de Datos</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=light" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark" alt="Bases de Datos" />
-  </picture>
-</p>
-
-<p align="center"><b>Deploys &amp; Cloud</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark" alt="Deploys y Cloud" />
-  </picture>
-</p>
-
-<p align="center"><b>Herramientas</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark" alt="Herramientas" />
-  </picture>
-</p>
-
-<p align="center"><b>Sistemas Operativos</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark" alt="Sistemas Operativos" />
-  </picture>
-</p>
+</div>
 
 <br>
 
