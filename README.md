@@ -1,18 +1,31 @@
+<!-- ════════════════════════════════════════════════════════════
+     PERFIL DE GITHUB · Jeanfranco Chamorro
+     Copia como README.md en: github.com/jeanfrancochamorro2006-jpg/jeanfrancochamorro2006-jpg
+     (cambia TU_CORREO@gmail.com por tu correo real)
+════════════════════════════════════════════════════════════ -->
+
 <!-- ░░░ WAVE OSCURA SUPERIOR ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header" width="100%" alt="" />
 
 <!-- ░░░ NOMBRE EN ORBITRON (estilo Stark / JARVIS) ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=EEFFBF&center=true&vCenter=true&width=900&height=80&lines=JEANFRANCO+CHAMORRO" alt="Jeanfranco Chamorro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=EEFFBF&center=true&vCenter=true&width=900&height=80&lines=JEANFRANCO+CHAMORRO"
+    alt="Jeanfranco Chamorro"
+  />
 </p>
 
 <!-- ░░░ ROLES EN ORBITRON ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=A3B3BC&center=true&vCenter=true&width=900&lines=BUSINESS+ANALYST+%26+FULL+STACK+DEVELOPER;ESPECIALISTA+EN+TRANSFORMACI%C3%93N+DIGITAL;INNOVANDO+CON+TECNOLOG%C3%8DA+Y+DATOS" alt="Roles" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=A3B3BC&center=true&vCenter=true&width=900&lines=BUSINESS+ANALYST+%26+FULL+STACK+DEVELOPER;ESPECIALISTA+EN+TRANSFORMACI%C3%93N+DIGITAL;INNOVANDO+CON+TECNOLOG%C3%8DA+Y+DATOS"
+    alt="Roles"
+  />
 </p>
 
 <br>
 
+<!-- ░░░ INTRO ESTILO TERMINAL (monoespaciada nativa) ░░░ -->
 ```ts
 const jeanfranco = {
   rol:        ["Business Analyst", "Full Stack Developer"],
@@ -45,7 +58,7 @@ const jeanfranco = {
 
 <br>
 
-<!-- ░░░ STACK ░░░ -->
+<!-- ░░░ STACK (título en Orbitron) ░░░ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=500&height=45&lines=%E2%9F%A8+STACK+TECNOL%C3%93GICO+%E2%9F%A9" alt="Stack" />
 </p>
@@ -60,25 +73,25 @@ const jeanfranco = {
 
 <br>
 
-<!-- ░░░ ESTADÍSTICAS ░░░ -->
+<!-- ░░░ ESTADÍSTICAS (título en Orbitron) ░░░ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=99999&color=EEFFBF&center=true&vCenter=true&width=560&height=45&lines=%E2%9F%A8+ESTAD%C3%8DSTICAS+EN+GITHUB+%E2%9F%A9" alt="Estadísticas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=0D1117&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanfrancochamorro2006-jpg&theme=transparent&hide_border=true&background=00000000&ring=EEFFBF&fire=EEFFBF&currStreakLabel=EEFFBF&sideNums=A3B3BC&sideLabels=A3B3BC&dates=6B7280&stroke=A3B3BC&currStreakNum=EEFFBF&dayNums=A3B3BC" alt="Racha de GitHub" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanfrancochamorro2006-jpg&hide_border=true&background=0D1117&ring=EEFFBF&fire=EEFFBF&currStreakLabel=EEFFBF&sideNums=A3B3BC&sideLabels=A3B3BC&dates=6B7280&stroke=A3B3BC&currStreakNum=EEFFBF&dayNums=A3B3BC" alt="Racha de GitHub" width="60%" />
 </p>
 
 <br>
 
 <!-- ░░░ TROFEOS ░░░ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeanfrancochamorro2006-jpg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeanfrancochamorro2006-jpg&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trofeos" />
 </p>
 
 <!-- ░░░ WAVE OSCURA INFERIOR ░░░ -->
