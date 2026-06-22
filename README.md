@@ -80,23 +80,57 @@ const jeanfranco = {
   </picture>
 </p>
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" alt="Frontend" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend" />
   </picture>
-  <br>
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,spring,laravel,py&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,spring,laravel,py&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,laravel,py&theme=dark" alt="Backend" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark" alt="Backend" />
   </picture>
-  <br>
+</p>
+
+<p align="center"><b>Bases de Datos</b></p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,figma,postman&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,figma,postman&theme=light" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,figma,postman&theme=dark" alt="Datos y Herramientas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark" alt="Bases de Datos" />
+  </picture>
+</p>
+
+<p align="center"><b>Deploys &amp; Cloud</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark" alt="Deploys y Cloud" />
+  </picture>
+</p>
+
+<p align="center"><b>Herramientas</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark" alt="Herramientas" />
+  </picture>
+</p>
+
+<p align="center"><b>Sistemas Operativos</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark" alt="Sistemas Operativos" />
   </picture>
 </p>
 
