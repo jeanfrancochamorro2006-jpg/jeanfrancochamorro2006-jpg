@@ -1,15 +1,9 @@
-<!-- ════════════════════════════════════════════════════════════
-     PERFIL DE GITHUB · Jeanfranco Chamorro
-     Copia este archivo como README.md en el repo:
-     github.com/jeanfrancochamorro2006-jpg/jeanfrancochamorro2006-jpg
-════════════════════════════════════════════════════════════ -->
-
 <!-- ░░░ HERO OSCURO ░░░ -->
 <h1 align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A1A&height=240&section=header&text=Jeanfranco%20Chamorro&desc=Business%20Analyst%20%26%20Full%20Stack%20Developer&fontSize=58&descSize=20&descAlignY=62&animation=fadeIn&fontColor=EEFFBF&descColor=A3B3BC&fontAlignY=42"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A1A&height=240&section=header&text=Jeanfranco%20Chamorro&desc=%3E_%20Business%20Analyst%20%26%20Full%20Stack%20Developer&fontSize=56&descSize=18&descAlignY=64&animation=fadeIn&fontColor=EEFFBF&descColor=A3B3BC&fontAlignY=40"
     width="100%"
-    alt="Jeanfranco Chamorro — Banner"
+    alt="Jeanfranco Chamorro"
   />
 </h1>
 
@@ -21,11 +15,18 @@
   />
 </p>
 
-<p align="center">
-  <b>Apasionado por la tecnología y la transformación digital.</b><br>
-  Creo soluciones de software que optimizan procesos de negocio y conectan con los usuarios<br>
-  a través de experiencias digitales modernas, analíticas y escalables.
-</p>
+<br>
+
+```ts
+const jeanfranco = {
+  rol:        ["Business Analyst", "Full Stack Developer"],
+  enfoque:    "Transformación Digital",
+  ubicacion:  "Lima, Perú 🇵🇪",
+  stack:      ["Next.js", "React", "Node.js", "Laravel", "PostgreSQL"],
+  mentalidad: "Convierto procesos de negocio en software escalable.",
+  filosofia:  "La tecnología no reemplaza la estrategia: la potencia.",
+};
+```
 
 <!-- ░░░ CONTACTO ░░░ -->
 <p align="center">
@@ -49,58 +50,40 @@
 <br>
 
 <!-- ░░░ STACK ░░░ -->
-<h3 align="center">⟨ Stack Tecnológico ⟩</h3>
+<h3 align="center">⟨ STACK TECNOLÓGICO ⟩</h3>
 
-<br>
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <h4>Frontend</h4>
-      <br>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,ts&theme=dark" alt="Frontend Stack" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Backend & Datos</h4>
-      <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,laravel,py,postgres,mysql,mongodb&theme=dark&perline=4" alt="Backend Stack" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Herramientas</h4>
-      <br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,figma,postman&theme=dark" alt="Tools" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" alt="Frontend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,laravel,py&theme=dark" alt="Backend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,figma,postman&theme=dark" alt="Datos y Herramientas" />
+</p>
 
 <br>
 
 <!-- ░░░ ESTADÍSTICAS ░░░ -->
-<h3 align="center">⟨ Estadísticas en GitHub ⟩</h3>
-
-<br>
+<h3 align="center">⟨ ESTADÍSTICAS EN GITHUB ⟩</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas de Jeanfranco" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanfrancochamorro2006-jpg&theme=transparent&hide_border=true&background=00000000&ring=EEFFBF&fire=EEFFBF&currStreakLabel=EEFFBF&sideNums=A3B3BC&sideLabels=A3B3BC&dates=6B7280&stroke=A3B3BC&currStreakNum=EEFFBF&dayNums=A3B3BC" alt="Racha de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&icon_color=EEFFBF" alt="Estadísticas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&theme=transparent&hide_border=true&title_color=EEFFBF&text_color=A3B3BC&langs_count=8" alt="Lenguajes más usados" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanfrancochamorro2006-jpg&theme=transparent&hide_border=true&background=00000000&ring=EEFFBF&fire=EEFFBF&currStreakLabel=EEFFBF&sideNums=A3B3BC&sideLabels=A3B3BC&dates=6B7280&stroke=A3B3BC&currStreakNum=EEFFBF&dayNums=A3B3BC" alt="Racha de GitHub" width="60%" />
 </p>
 
 <br>
 
 <!-- ░░░ TROFEOS ░░░ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeanfrancochamorro2006-jpg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeanfrancochamorro2006-jpg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos" />
 </p>
-
-<br>
 
 <!-- ░░░ FOOTER OSCURO ░░░ -->
-<p align="center">
-  <i>“La tecnología no reemplaza la estrategia: la potencia.”</i>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanfrancochamorro2006-jpg&color=EEFFBF&style=flat&label=Visitas+al+perfil" alt="Visitas" />
+</p>
