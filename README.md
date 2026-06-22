@@ -80,70 +80,35 @@ const jeanfranco = {
   </picture>
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="right"><b>🎨&nbsp; Frontend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark&perline=10" height="42" alt="Frontend" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>⚙️&nbsp; Backend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark&perline=10" height="42" alt="Backend" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🗄️&nbsp; Bases de Datos</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark&perline=10" height="42" alt="Bases de Datos" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>☁️&nbsp; Deploys &amp; Cloud</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark&perline=10" height="42" alt="Deploys y Cloud" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🛠️&nbsp; Herramientas</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark&perline=10" height="42" alt="Herramientas" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>💻&nbsp; Sistemas Operativos</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark&perline=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=light&perline=10" />
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark&perline=10" height="42" alt="Sistemas Operativos" />
-      </picture>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center"><b>🎨 Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,sass,bootstrap&theme=dark&perline=10" height="44" alt="Frontend" />
+</p>
+
+<p align="center"><b>⚙️ Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,py&theme=dark&perline=10" height="44" alt="Backend" />
+</p>
+
+<p align="center"><b>🗄️ Bases de Datos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark&perline=10" height="44" alt="Bases de Datos" />
+</p>
+
+<p align="center"><b>☁️ Deploys &amp; Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,docker,githubactions&theme=dark&perline=10" height="44" alt="Deploys y Cloud" />
+</p>
+
+<p align="center"><b>🛠️ Herramientas</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,vite,notion&theme=dark&perline=10" height="44" alt="Herramientas" />
+</p>
+
+<p align="center"><b>💻 Sistemas Operativos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&theme=dark&perline=10" height="44" alt="Sistemas Operativos" />
+</p>
 
 <br>
 
