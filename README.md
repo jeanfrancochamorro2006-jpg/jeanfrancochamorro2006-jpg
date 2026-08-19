@@ -1,237 +1,98 @@
-<h1 align="center">👋 Hola, soy Jeanfranco Chamorro</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1B3B6F,100:00D9FF&height=180&section=header&text=Jeanfranco%20Chamorro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Developer%20%C2%B7%20Business%20Analyst&descAlignY=52&descSize=16" width="100%" />
 
-<p align="center">
-  <b>Backend Developer · Business Analyst</b><br/>
-  Estudiante de Ingeniería de Sistemas
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://portafolio-jeanfranco-delta.vercel.app">
-    <img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jeanfrancochamorro2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/51946087675">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+<a href="https://portafolio-jeanfranco-delta.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=620&height=45&lines=%3E+Analizar+el+problema.;%3E+Dise%C3%B1ar+la+soluci%C3%B3n.;%3E+Construir+el+sistema.;%3E+ERPs+en+producci%C3%B3n+%C2%B7+APIs+%C2%B7+Bases+de+datos" alt="typing" />
+</a>
 
-<p align="center">
-  <i>Analizar el problema · Diseñar la solución · Construir el sistema</i>
-</p>
+<br/>
+
+<a href="https://portafolio-jeanfranco-delta.vercel.app"><img src="https://img.shields.io/badge/Portafolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0A1128" /></a>
+<a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jeanfrancochamorro2006@gmail.com"><img src="https://img.shields.io/badge/Email-1B3B6F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/51946087675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 🧠 Sobre mí
+### `01` ▸ Sobre mí
 
-Me enfoco en el **backend y la lógica de negocio**: entender cómo funciona un proceso, analizar sus necesidades y convertirlas en **software funcional, estructurado y mantenible**.
+Ingeniería de Sistemas · Enfocado en **backend y lógica de negocio**.
 
-He trabajado en **sistemas ERP en producción para empresas reales** (fabricación, distribución y delivery), además de proyectos propios de e-commerce, aplicaciones móviles y automatización con IA.
+Construyo **ERPs en producción** para empresas reales de fabricación, distribución y delivery. Mi trabajo empieza antes del código: entender el proceso, levantar requerimientos y diseñar la solución.
 
-**Lo que más me interesa:**
-
-| | |
-|---|---|
-| 🔹 APIs REST y servicios backend | 🔹 Diseño y gestión de bases de datos |
-| 🔹 Lógica de negocio y procesos empresariales | 🔹 Análisis de requerimientos |
-| 🔹 Integración entre sistemas | 🔹 Sistemas empresariales (ERP / CRM) |
-
-También manejo frontend con **React, Next.js y Angular**, lo que me permite conectar correctamente todas las capas de una aplicación.
+`APIs REST` · `Lógica de negocio` · `Bases de datos` · `Análisis de procesos` · `Integración de sistemas`
 
 ---
 
-## 🚀 Proyectos
+### `02` ▸ Stack
 
-### 🏢 Sistemas empresariales (en producción)
+<div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+**Backend**
 
-**🧾 ELESS · ERP Empresarial**
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs&theme=dark" height="42" />
 
-Sistema ERP a medida para un fabricante e importador de equipamiento profesional de belleza. Gestión de **inventario, ventas y operaciones** para fabricación y distribución a nivel nacional.
+**Datos · Frontend · Tools**
 
-`ERP` · `Inventario` · `Ventas` · `Lógica de negocio`
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nextjs,angular,ts,tailwind,git,github,postman&theme=dark" height="42" />
 
-🔒 Proyecto privado
-
-  </td>
-    <td width="50%" valign="top">
-
-**🥗 GetUp · ERP**
-
-Sistema ERP para un servicio de comida saludable con planes de alimentación personalizados por nutricionistas y **entrega a domicilio**. Gestión de pedidos, planes y logística de delivery.
-
-`ERP` · `Gestión` · `Delivery`
-
-🔒 Proyecto privado
-
-  </td>
-  </tr>
-</table>
-
-**🌐 ELESS · Sitio Web + CMS** — Sitio corporativo con **CMS** para administración de contenido, optimizado para SEO y distribución nacional.
-`Desarrollo Web` · `CMS` · `SEO` — 🔗 [eless.com.pe](https://eless.com.pe/)
-
-### 💻 Proyectos propios
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🤖 HARVIS · Asistente de Voz con IA**
-
-Asistente de voz para Windows estilo JARVIS: escucha por micrófono, **interpreta comandos en español** y responde con voz neuronal. Incluye IA conversacional y HUD circular animado.
-
-<img src="https://skillicons.dev/icons?i=python" height="28" /> `Groq AI` · `Edge-TTS`
-
-📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/jarvis-ai)
-
-  </td>
-    <td width="50%" valign="top">
-
-**💰 FinanTrack**
-
-App de **finanzas personales privada y offline** en soles: registro de ingresos y gastos, empaquetada como aplicación Android con Capacitor.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts" height="28" /> `Capacitor`
-
-📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/finantrack) · 🔗 [Demo](https://finantrack-amber.vercel.app)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**👟 SneakFlow**
-
-E-commerce de zapatillas con **catálogo de productos, carrito de compras**, blog y página de contacto.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="28" />
-
-📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/sneakflow) · 🔗 [Demo](https://sneakflow.vercel.app)
-
-  </td>
-    <td width="50%" valign="top">
-
-**🖥️ Olympus Center**
-
-Tienda especializada en **hardware y componentes de PC**, con catálogo orientado a gamers, profesionales y entusiastas.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="28" />
-
-📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/olympus-center) · 🔗 [Demo](https://olympus-center.vercel.app)
-
-  </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://portafolio-jeanfranco-delta.vercel.app/#projects">
-    <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver proyectos" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+### `03` ▸ Proyectos
 
-### ⚙️ Backend — Principal
+<details open>
+<summary><b>🏢 Sistemas empresariales — en producción</b></summary>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs" height="45" alt="Backend" />
-</p>
+<br/>
 
-| Tecnología | Qué construyo con ella |
-|---|---|
-| **PHP & Laravel** | Aplicaciones web, APIs REST, autenticación y autorización, CRUD, gestión de roles, lógica de negocio y sistemas empresariales. |
-| **Java & Spring Boot** | Backends estructurados, APIs REST y servicios con arquitectura organizada y escalable. |
-| **Python** | Automatización, procesamiento de información, integración con IA y soluciones orientadas a datos. |
-| **Node.js** | APIs, servicios backend e integraciones con JavaScript en el servidor. |
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| **ELESS · ERP** 🔒 | Inventario, ventas y operaciones para fabricación y distribución nacional de equipamiento profesional de belleza | `ERP` `Inventario` `Ventas` |
+| **GetUp · ERP** 🔒 | Pedidos, planes nutricionales personalizados y logística de delivery para servicio de comida saludable | `ERP` `Gestión` `Delivery` |
+| **ELESS · Web + CMS** | Sitio corporativo con CMS y SEO — [eless.com.pe](https://eless.com.pe/) | `Web` `CMS` `SEO` |
 
-### 🗄️ Bases de Datos
+</details>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" alt="Bases de Datos" />
-</p>
+<details open>
+<summary><b>💻 Proyectos propios</b></summary>
 
-| Tecnología | Qué construyo con ella |
-|---|---|
-| **MySQL** | Diseño de bases de datos relacionales, consultas SQL, relaciones entre entidades, integridad de datos y CRUD. |
-| **MongoDB** | Bases de datos NoSQL orientadas a documentos y estructuras de información flexibles. |
+<br/>
 
-### 🎨 Frontend — Complementario
+| Proyecto | Qué hace | Stack | Links |
+|---|---|---|---|
+| 🤖 **HARVIS** | Asistente de voz para Windows: escucha, interpreta comandos en español y responde con voz neuronal + HUD animado | `Python` `Groq AI` `Edge-TTS` | [Repo](https://github.com/jeanfrancochamorro2006-jpg/jarvis-ai) |
+| 💰 **FinanTrack** | Finanzas personales offline y privadas en soles, empaquetada como app Android | `Next.js` `TS` `Capacitor` | [Repo](https://github.com/jeanfrancochamorro2006-jpg/finantrack) · [Demo](https://finantrack-amber.vercel.app) |
+| 👟 **SneakFlow** | E-commerce de zapatillas: catálogo, carrito, blog y contacto | `Next.js` `TS` `Tailwind` | [Repo](https://github.com/jeanfrancochamorro2006-jpg/sneakflow) · [Demo](https://sneakflow.vercel.app) |
+| 🖥️ **Olympus Center** | Tienda de hardware y componentes de PC para gamers y profesionales | `Next.js` `TS` `Tailwind` | [Repo](https://github.com/jeanfrancochamorro2006-jpg/olympus-center) · [Demo](https://olympus-center.vercel.app) |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" height="45" alt="Frontend" />
-</p>
-
-Construyo la capa visual de una aplicación y, sobre todo, **la integro correctamente con el backend y las APIs**.
-
-> Mi enfoque principal no está en el diseño visual, sino en la **lógica, integración y funcionamiento del sistema**.
-
-### 🔧 Herramientas y fundamentos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman" height="45" alt="Tools" />
-</p>
-
-`APIs REST` · `JSON` · `HTTP` · `CRUD` · `MVC` · `POO` · `SQL` · `Control de versiones` · `Integración de servicios`
+</details>
 
 ---
 
-## 🔍 Mi forma de trabajar
+### `04` ▸ Actividad
 
-```text
-   PROBLEMA  →  ANÁLISIS DEL PROCESO  →  REQUERIMIENTOS  →  DISEÑO DE SOLUCIÓN
-                                                                    ↓
-   PRUEBAS  ←  FRONTEND  ←  API / SERVICIOS  ←  BASE DE DATOS  ←  BACKEND
-```
+<div align="center">
 
-Mi interés no se limita a programar: me gusta **entender qué problema se necesita resolver**, analizar cómo funciona el proceso y determinar qué solución tecnológica aporta mayor valor.
+<img height="150" src="https://streak-stats.demolab.com?user=jeanfrancochamorro2006-jpg&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&stroke=1B3B6F" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E&langs_count=6" />
 
----
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeanfrancochamorro2006-jpg&bg_color=00000000&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=1B3B6F&hide_border=true&hide_title=true" />
 
-## 💼 Servicios
-
-| | |
-|---|---|
-| 🌐 **Desarrollo Web** | Sitios modernos, rápidos y optimizados para SEO. |
-| 🏢 **Aplicaciones Empresariales** | Software personalizado para necesidades específicas del negocio. |
-| 📊 **CRM y ERP** | Sistemas de gestión interna para optimizar recursos y ventas. |
-| 🎯 **Landing Pages** | Páginas de alta conversión para productos o servicios. |
+</div>
 
 ---
 
-## 📊 GitHub
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jeanfrancochamorro2006-jpg&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=57606A&icon_color=2563EB"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=57606A&langs_count=6"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+### ¿Tienes un proceso que automatizar?
 
----
+<a href="mailto:jeanfrancochamorro2006@gmail.com"><img src="https://img.shields.io/badge/Hablemos-00D9FF?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
 
-<p align="center">
-  <b>¿Tienes un proyecto en mente?</b><br/>
-  Hablemos sobre cómo convertirlo en un sistema que funcione.
-</p>
+</div>
 
-<p align="center">
-  <a href="mailto:jeanfrancochamorro2006@gmail.com">
-    <img src="https://img.shields.io/badge/Escríbeme-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1B3B6F,100:0A1128&height=110&section=footer" width="100%" />
