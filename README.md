@@ -1,30 +1,141 @@
-# 👋 Hola, soy Jeanfranco Chamorro
+<h1 align="center">👋 Hola, soy Jeanfranco Chamorro</h1>
 
-### Backend Developer | Business Analyst
+<p align="center">
+  <b>Backend Developer · Business Analyst</b><br/>
+  Estudiante de Ingeniería de Sistemas
+</p>
 
-Estudiante de Ingeniería de Sistemas enfocado en el **desarrollo backend, análisis de sistemas y resolución de problemas**.
+<p align="center">
+  <a href="https://portafolio-jeanfranco-delta.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jeanfrancochamorro2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/51946087675">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-Me interesa entender cómo funciona un proceso, analizar sus necesidades y convertirlas en **soluciones de software funcionales, estructuradas y mantenibles**.
-
-> **Analizar el problema. Diseñar la solución. Construir el sistema.**
+<p align="center">
+  <i>Analizar el problema · Diseñar la solución · Construir el sistema</i>
+</p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Mi principal enfoque está en el **backend y la lógica de negocio**.
+Me enfoco en el **backend y la lógica de negocio**: entender cómo funciona un proceso, analizar sus necesidades y convertirlas en **software funcional, estructurado y mantenible**.
 
-Me interesa especialmente trabajar con:
+He trabajado en **sistemas ERP en producción para empresas reales** (fabricación, distribución y delivery), además de proyectos propios de e-commerce, aplicaciones móviles y automatización con IA.
 
-* 🔹 Desarrollo de APIs y servicios backend
-* 🔹 Diseño y gestión de bases de datos
-* 🔹 Lógica de negocio y procesos empresariales
-* 🔹 Análisis de requerimientos
-* 🔹 Integración entre sistemas
-* 🔹 Resolución y análisis de problemas
-* 🔹 Desarrollo de sistemas empresariales
+**Lo que más me interesa:**
 
-También tengo conocimientos de frontend, principalmente con **React, Next.js y Angular**, lo que me permite comprender y conectar correctamente las diferentes capas de una aplicación.
+| | |
+|---|---|
+| 🔹 APIs REST y servicios backend | 🔹 Diseño y gestión de bases de datos |
+| 🔹 Lógica de negocio y procesos empresariales | 🔹 Análisis de requerimientos |
+| 🔹 Integración entre sistemas | 🔹 Sistemas empresariales (ERP / CRM) |
+
+También manejo frontend con **React, Next.js y Angular**, lo que me permite conectar correctamente todas las capas de una aplicación.
+
+---
+
+## 🚀 Proyectos
+
+### 🏢 Sistemas empresariales (en producción)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🧾 ELESS · ERP Empresarial**
+
+Sistema ERP a medida para un fabricante e importador de equipamiento profesional de belleza. Gestión de **inventario, ventas y operaciones** para fabricación y distribución a nivel nacional.
+
+`ERP` · `Inventario` · `Ventas` · `Lógica de negocio`
+
+🔒 Proyecto privado
+
+  </td>
+    <td width="50%" valign="top">
+
+**🥗 GetUp · ERP**
+
+Sistema ERP para un servicio de comida saludable con planes de alimentación personalizados por nutricionistas y **entrega a domicilio**. Gestión de pedidos, planes y logística de delivery.
+
+`ERP` · `Gestión` · `Delivery`
+
+🔒 Proyecto privado
+
+  </td>
+  </tr>
+</table>
+
+**🌐 ELESS · Sitio Web + CMS** — Sitio corporativo con **CMS** para administración de contenido, optimizado para SEO y distribución nacional.
+`Desarrollo Web` · `CMS` · `SEO` — 🔗 [eless.com.pe](https://eless.com.pe/)
+
+### 💻 Proyectos propios
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🤖 HARVIS · Asistente de Voz con IA**
+
+Asistente de voz para Windows estilo JARVIS: escucha por micrófono, **interpreta comandos en español** y responde con voz neuronal. Incluye IA conversacional y HUD circular animado.
+
+<img src="https://skillicons.dev/icons?i=python" height="28" /> `Groq AI` · `Edge-TTS`
+
+📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/jarvis-ai)
+
+  </td>
+    <td width="50%" valign="top">
+
+**💰 FinanTrack**
+
+App de **finanzas personales privada y offline** en soles: registro de ingresos y gastos, empaquetada como aplicación Android con Capacitor.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts" height="28" /> `Capacitor`
+
+📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/finantrack) · 🔗 [Demo](https://finantrack-amber.vercel.app)
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**👟 SneakFlow**
+
+E-commerce de zapatillas con **catálogo de productos, carrito de compras**, blog y página de contacto.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="28" />
+
+📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/sneakflow) · 🔗 [Demo](https://sneakflow.vercel.app)
+
+  </td>
+    <td width="50%" valign="top">
+
+**🖥️ Olympus Center**
+
+Tienda especializada en **hardware y componentes de PC**, con catálogo orientado a gamers, profesionales y entusiastas.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="28" />
+
+📂 [Repositorio](https://github.com/jeanfrancochamorro2006-jpg/olympus-center) · 🔗 [Demo](https://olympus-center.vercel.app)
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://portafolio-jeanfranco-delta.vercel.app/#projects">
+    <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver proyectos" />
+  </a>
+</p>
 
 ---
 
@@ -33,133 +144,67 @@ También tengo conocimientos de frontend, principalmente con **React, Next.js y 
 ### ⚙️ Backend — Principal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring,nodejs" height="45" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs" height="45" alt="Backend" />
 </p>
 
-#### PHP & Laravel
+| Tecnología | Qué construyo con ella |
+|---|---|
+| **PHP & Laravel** | Aplicaciones web, APIs REST, autenticación y autorización, CRUD, gestión de roles, lógica de negocio y sistemas empresariales. |
+| **Java & Spring Boot** | Backends estructurados, APIs REST y servicios con arquitectura organizada y escalable. |
+| **Python** | Automatización, procesamiento de información, integración con IA y soluciones orientadas a datos. |
+| **Node.js** | APIs, servicios backend e integraciones con JavaScript en el servidor. |
 
-Desarrollo de aplicaciones web, APIs REST, autenticación, autorización, CRUD, gestión de roles, lógica de negocio y sistemas empresariales.
-
-#### Java & Spring Boot
-
-Desarrollo de aplicaciones backend estructuradas, APIs REST, servicios y aplicaciones orientadas a una arquitectura organizada y escalable.
-
-#### Python
-
-Utilizado principalmente para **automatización, procesamiento de información y desarrollo de soluciones orientadas a datos**.
-
-#### Node.js
-
-Desarrollo de APIs, servicios backend e integraciones utilizando JavaScript en el servidor.
-
----
-
-### 🗄️ Bases de Datos — Principal
+### 🗄️ Bases de Datos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" alt="Bases de Datos" />
 </p>
 
-#### MySQL
-
-Diseño de bases de datos relacionales, consultas SQL, relaciones entre entidades, integridad de datos y operaciones CRUD.
-
-#### MongoDB
-
-Trabajo con bases de datos NoSQL orientadas a documentos y estructuras de información flexibles.
-
----
+| Tecnología | Qué construyo con ella |
+|---|---|
+| **MySQL** | Diseño de bases de datos relacionales, consultas SQL, relaciones entre entidades, integridad de datos y CRUD. |
+| **MongoDB** | Bases de datos NoSQL orientadas a documentos y estructuras de información flexibles. |
 
 ### 🎨 Frontend — Complementario
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="45" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" height="45" alt="Frontend" />
 </p>
 
-Tengo conocimientos de desarrollo frontend que me permiten construir y comprender la capa visual de una aplicación y, principalmente, **integrarla correctamente con el backend y las APIs**.
-
-**React · Next.js · Angular**
+Construyo la capa visual de una aplicación y, sobre todo, **la integro correctamente con el backend y las APIs**.
 
 > Mi enfoque principal no está en el diseño visual, sino en la **lógica, integración y funcionamiento del sistema**.
 
----
-
-## 🔧 Herramientas y fundamentos
+### 🔧 Herramientas y fundamentos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman" height="45" alt="Tools" />
 </p>
 
-* Git & GitHub
-* APIs REST
-* JSON
-* HTTP
-* CRUD
-* MVC
-* Programación Orientada a Objetos
-* SQL
-* Bases de datos relacionales y NoSQL
-* Control de versiones
-* Integración de servicios
+`APIs REST` · `JSON` · `HTTP` · `CRUD` · `MVC` · `POO` · `SQL` · `Control de versiones` · `Integración de servicios`
 
 ---
 
-## 🔍 Mi enfoque de trabajo
+## 🔍 Mi forma de trabajar
 
 ```text
-        PROBLEMA
-           ↓
-    ANÁLISIS DEL PROCESO
-           ↓
-   REQUERIMIENTOS
-           ↓
-    DISEÑO DE SOLUCIÓN
-           ↓
-   LÓGICA DE NEGOCIO
-           ↓
-       BACKEND
-           ↓
-    BASE DE DATOS
-           ↓
-     API / SERVICIOS
-           ↓
-       FRONTEND
-           ↓
-       PRUEBAS
+   PROBLEMA  →  ANÁLISIS DEL PROCESO  →  REQUERIMIENTOS  →  DISEÑO DE SOLUCIÓN
+                                                                    ↓
+   PRUEBAS  ←  FRONTEND  ←  API / SERVICIOS  ←  BASE DE DATOS  ←  BACKEND
 ```
 
-Mi interés no se limita a programar.
-
-Me gusta **entender qué problema se necesita resolver**, analizar cómo funciona el proceso y determinar qué solución tecnológica puede aportar mayor valor.
+Mi interés no se limita a programar: me gusta **entender qué problema se necesita resolver**, analizar cómo funciona el proceso y determinar qué solución tecnológica aporta mayor valor.
 
 ---
 
-## 💼 Áreas de interés
+## 💼 Servicios
 
-### Backend Development
-
-* APIs REST
-* Lógica de negocio
-* Arquitectura de aplicaciones
-* Integración de servicios
-* Autenticación y autorización
-* Sistemas empresariales
-
-### Análisis
-
-* Análisis de requerimientos
-* Análisis de procesos
-* Modelamiento de sistemas
-* Identificación de problemas
-* Diseño de soluciones
-
-### Datos
-
-* Modelamiento de bases de datos
-* SQL
-* MySQL
-* MongoDB
-* Gestión y análisis de información
+| | |
+|---|---|
+| 🌐 **Desarrollo Web** | Sitios modernos, rápidos y optimizados para SEO. |
+| 🏢 **Aplicaciones Empresariales** | Software personalizado para necesidades específicas del negocio. |
+| 📊 **CRM y ERP** | Sistemas de gestión interna para optimizar recursos y ventas. |
+| 🎯 **Landing Pages** | Páginas de alta conversión para productos o servicios. |
 
 ---
 
@@ -171,39 +216,22 @@ Me gusta **entender qué problema se necesita resolver**, analizar cómo funcion
     height="165"
     alt="GitHub Stats"
   />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=57606A&langs_count=6"
- height="165"
- alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrancochamorro2006-jpg&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=57606A&langs_count=6"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🤝 Conectemos
-
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/jeanfrancochamorro2006-jpg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://portafolio-jeanfranco-delta.vercel.app">
-    <img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-
-  <a href="mailto:jeanfrancochamorro2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
+  <b>¿Tienes un proyecto en mente?</b><br/>
+  Hablemos sobre cómo convertirlo en un sistema que funcione.
 </p>
 
 <p align="center">
-  <i>Analizar problemas · Diseñar soluciones · Construir sistemas</i>
+  <a href="mailto:jeanfrancochamorro2006@gmail.com">
+    <img src="https://img.shields.io/badge/Escríbeme-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
+  </a>
 </p>
