@@ -1,22 +1,24 @@
 <!--
   GITHUB PROFILE · Jeanfranco Chamorro
-  Copy this file as README.md into:
-  github.com/jeanfrancochamorro2006-jpg/jeanfrancochamorro2006-jpg
+  Copy BOTH files into github.com/jeanfrancochamorro2006-jpg/jeanfrancochamorro2006-jpg
+    · this file, renamed to README.md
+    · banner.png (from public/banner.png in the portfolio repo)
 
   Before publishing, confirm the portfolio URL below actually resolves.
 -->
 
-# Jeanfranco Chamorro
+<img src="banner.png" width="100%" alt="Jeanfranco Chamorro — Backend Developer and Business Analyst" />
 
-**Backend Developer · Business Analyst** — Lima, Peru
+<p align="center">
+  <a href="https://portafolio-jeanfranco-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jeanfrancochamorro2006@gmail.com"><img src="https://img.shields.io/badge/Email-12101A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/51946087675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
 I build ERP systems that run real businesses. The work starts before the
 code: understanding the process, gathering requirements and designing the
 solution that fits it.
-
-[Portfolio](https://portafolio-jeanfranco-delta.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347) ·
-[Email](mailto:jeanfrancochamorro2006@gmail.com)
 
 ---
 
@@ -45,12 +47,19 @@ More, including live sites, on the [portfolio](https://portafolio-jeanfranco-del
 
 ## Stack
 
-| | |
-| --- | --- |
-| **Backend** | Java · Spring Boot · PHP · Laravel · Node.js · Express |
-| **Frontend** | React · Angular · Next.js · TypeScript |
-| **Databases** | MySQL · SQL Server · PostgreSQL |
-| **Infrastructure** | VPS (Hetzner) · GitHub |
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express&theme=dark" height="42" alt="Java, Spring Boot, PHP, Laravel, Node.js, Express" />
+
+**Frontend · Data · Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,mysql,postgres,git,github&theme=dark" height="42" alt="React, Angular, Next.js, TypeScript, MySQL, PostgreSQL, Git, GitHub" />
+
+</div>
+
+Also working with **SQL Server** and deploying on my own **VPS (Hetzner)**.
 
 ---
 
