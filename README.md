@@ -10,7 +10,7 @@
 <img src="banner.png" width="100%" alt="Jeanfranco Chamorro — Backend Developer and Business Analyst" />
 
 <p align="center">
-  <a href="https://portafolio-jeanfranco-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portafolio-jeanfranco-ecru.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jeanfranco-jesus-chamorro-granados-7233b2347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jeanfrancochamorro2006@gmail.com"><img src="https://img.shields.io/badge/Email-12101A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/51946087675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -41,7 +41,7 @@ solution that fits it.
 | [**Olympus Center**](https://olympus-center.vercel.app) | PC hardware store: catalogue, product pages and checkout | Next.js · Java · Spring Boot |
 | [**HARVIS**](https://github.com/jeanfrancochamorro2006-jpg/jarvis-ai) | Spanish-language voice assistant for Windows with neural speech output | Python · Groq · Edge-TTS |
 
-More, including live sites, on the [portfolio](https://portafolio-jeanfranco-delta.vercel.app).
+More, including live sites, on the [portfolio](https://portafolio-jeanfranco-ecru.vercel.app).
 
 ---
 
